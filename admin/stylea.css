@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+.head{background:#009966; text-align:center; direction:rtl; width:80%}
+.body{background:#00FFCC; text-align:center;direction:rtl; height:80% ; width:80%;}
+.body table{}
+.body form input{ width:350px;}
+.body form textarea{ width:350px; height:100px;}
+.body a{text-decoration:none; text-align:center; font-size:16px; color:#000000; font-family:Andalus;}
+.sa{color:#009900; border: thick 2px; border:#003300; font-size:18px; background:#FFFFFF;}
+.err{color: #CC0000; border: thick; border: #CC0000; font-size:18px; background:#FFFFFF;}
+.head_block{background:#009966; text-align:center; direction:rtl;}
+.ss{height:100%; background:#66FFCC;}

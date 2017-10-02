@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+html{width:100%;}
+
+#head{ width:90%; background: url(../images1/dddd.jpg) no-repeat  left bottom 30%; height:150px; min-height:100px;}
+#head p{ font-family:Andalus; font-size:36px; text-align:center;}
+#logo{width:auto; padding-top:0px; padding-bottom:20px; float:right; }
+
+#logo img{width:285px; height:130px;}
+
+
+#content{width:1200px; min-height:400px;}
+#counta{width:1100px; min-height:700px; text-align:center;}
+
+#slider{width:270px; }
+
+#footer{ width:100%; min-height:300px; background:url(../images1/s.jpg) no-repeat right bottom;}
+#loq{width:50%; height:300px;  text-align:center; float:left;}
+#loq b{color:#990000; font-size:16px;}
+#fol{width:30%; height:270px;float:left; background: url(../images1/bbb.jpg) no-repeat center; text-align: center;}
+#fol input[type="text"]{width:155px; height:15px; margin-bottom:20px;}
+#fol input[type="submit"]{width:150px; color:#990000; background:#990000;}
+#fol p{font-family:Andalus; color:#000000;}
+.body_bloak{ width:80%; border-bottom:  #996666 1px solid;}
+
+.all_news{ width:60%; height:200px;  margin-right:auto;padding:0 5px;text-align:left; border-left: #996666 1px solid;border-right: #996666 1px solid;}
+.all_news h3{ display:block; margin:2px 5px 2px 10px; text-align:right; color: #FFFFFF;  font-family:Akhbar MT; font-size:18px; background: #996666; }
+.all_news img{ float:right; margin-left:5px; margin-right:5px; margin-top:5px;}
+.all_news p{ direction:rtl; text-align:justify; color:#000000; font-family:DecoType Naskh Variants; font-size:16px;}
+.all_news h4 a{color:#ffffff; text-decoration:none; background:#996666; font-family:Akhbar MT; margin-left:10px; }
+.newsbody{width:80%; direction:rtl; text-align:center; height:auto;; margin-right:auto; margin-top:10px;padding:5px;}
+.newsbody h3{background: #996666; font-family:Andalus; font-size:24px; color:#FFFFFF;}
+.newsbody p{ font-family:Andalus; font-size:20px; color: #000000;}
+.newsbody table{  background:url(../images1/ha2.jpg); color:#993333; font-family:Andalus; font-size:14px;}
+#container{left:19.6% ; width:60%;
+height:200px;  margin:0 auto; position:relative;}
+#container img{
+	width:100%;
+	height: 100%;
+	position: absolute;
+	left: 0px;
+	top: 2px;
+}
+.head_block{background:#996666; font-family:Andalus; font-size:18px; text-align:center; width:80%;left:19.6% ; margin-left:15%; color:#FFFFFF}
+#menu a{text-decoration:none; font-family: "Akhbar MT"; font-style:oblique; color:#990033;}
+#s{width:50%; border:#996666 1px solid; font-size:20px; color:#ffffff; font-family:"Akhbar MT";}
