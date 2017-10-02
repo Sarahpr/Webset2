@@ -6,7 +6,7 @@ include("header.php");
 <link href="style.css" rel="stylesheet" 
 
 type="text/css">
-<div class="head_block">«·’›Õ… «·—∆Ì”Ì…</div>
+<div class="head_block">«·’›Õ… «·—∆Ì”Ì</div>
 <br>
 <div id="container">
 
